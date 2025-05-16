@@ -10,3 +10,10 @@
 
 
 
+1) data.csv를 읽어서 train, test, scaling, imputing, 1에 대한 oversampling
+
+2) week1.csv, 전체 기간 중 최근 20%를 test, 그 전은 train, 시간으로 sampling
+
+3) 기상 데이터에서 30분 간격의 각 변수 차이값 구하기: diff, pct_change, 등 사용
+
+4) watermeter 각각 인식하기
