@@ -5,7 +5,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ws-l/hh2025/blob/main/5/HH_2025_5_1.ipynb)
 
 
-### 5일차 노트 파일2 링크: https://colab.research.google.com/github/ws-l/hh2025/blob/main/4/HH_2025_5_2.ipynb
+### 5일차 노트 파일2 링크: https://colab.research.google.com/github/ws-l/hh2025/blob/main/5/HH_2025_5_2.ipynb
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ws-l/hh2025/blob/main/5/HH_2025_5_2.ipynb)
 
