@@ -9,6 +9,10 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ws-l/hh2025/blob/main/8/HH_2025_8_2.ipynb)
 
+### 8일차 노트 파일2_1 링크: https://colab.research.google.com/github/ws-l/hh2025/blob/main/8/HH_2025_8_2_1.ipynb
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ws-l/hh2025/blob/main/8/HH_2025_8_2_1.ipynb)
+
 
 ### 8일차 노트 파일3 링크: https://colab.research.google.com/github/ws-l/hh2025/blob/main/8/HH_2025_8_3.ipynb
 
