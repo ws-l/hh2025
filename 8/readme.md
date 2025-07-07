@@ -14,5 +14,4 @@
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ws-l/hh2025/blob/main/8/HH_2025_8_3.ipynb)
 
-
-
+### https://ods.ai/competitions/x5-retailhero-uplift-modeling/data
